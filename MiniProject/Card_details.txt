@@ -1,0 +1,25 @@
+https://docs.stripe.com/testing#cards
+
+
+
+
+
+1978.9 = https://buy.stripe.com/test_cN2cPGcB3h0fdUs8wz
+
+2198.9 = https://buy.stripe.com/test_bIY02U58BfWb2bK4gk
+
+6156.7 = https://buy.stripe.com/test_eVabLCbwZh0f2bK7sx
+
+6376.7 = https://buy.stripe.com/test_bIY8zq58BeS7cQofZ4
+
+8135.6 = https://buy.stripe.com/test_fZe6ri44xbFV3fOfZ5
+
+8355.6 = https://buy.stripe.com/test_5kA16Y8kNfWb7w45ks
+
+8575.6 = https://buy.stripe.com/test_eVa2b29oR25lbMkeV3
+
+10334.5 = https://buy.stripe.com/test_7sIeXOfNf39p9Ec8wG
+
+10554.5 = https://buy.stripe.com/test_dR6bLCasV39pdUs00b
+
+12533.4 = https://buy.stripe.com/test_9AQbLCgRj6lB03C3co
